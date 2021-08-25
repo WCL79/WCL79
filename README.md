@@ -18,7 +18,7 @@
 
 - [Graduado](https://repositorio.pgsskroton.com/bitstream/123456789/1081/1/artigo%2022.pdf)
 
-### 💻 Enterno Estudante ao Desenvolvedor
+### 💻 Enterno Estudante Desenvolvedor
 
 - [Weslley C. Lima](https://www.linkedin.com/in/weslley-lima-6844122b/)
 
