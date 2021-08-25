@@ -1,9 +1,8 @@
-<h1 align="center">
-	<div class="text-mono text-small mb-3">
-        <a href="WCL79/apresentacao" class="no-underline Link--primary">/WCL79</a><span class="color-text-tertiary d-inline-block" style="padding:0px 2px;">/</span>README<span class="color-text-tertiary">.md</span>
-      </div>
-<img src="https://boring-poincare-14c7c6.netlify.app/image/cartaowcl.png"/>
-</h1>
+<p align="center">
+  <a href="#">
+    <img align="center" width="300" src="https://boring-poincare-14c7c6.netlify.app/image/cartaowcl.png" style="max-width:100%;">
+  </a>
+</p>
 
 <h1 align="center">
   Quem sou?
