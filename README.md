@@ -20,7 +20,7 @@
 
 ### 💻 Enterno Estudante ao Desenvolvedor
 
-- [Weslley C. Lima](https://github.com/WCL79)
+- [Weslley C. Lima](https://www.linkedin.com/in/weslley-lima-6844122b/)
 
 
 ## 🚀 Tecnologias conhecidas:
