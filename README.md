@@ -1,6 +1,5 @@
 <h1 align="center">
-<img src="https://github.com/WCL79/apresentacao/tree/master/image/cartaowcl.png" title="Apresentacao " />
-</h1>
+<img src="https://github.com/WCL79/apresentacao/tree/master/image/cartaowcl.png" title="Apresentacao "/>
 
 <h1 align="center">
   Quem sou?
