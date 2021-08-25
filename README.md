@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/WCL79/">
-    <img align="center" width="300" src="https://boring-poincare-14c7c6.netlify.app/image/cartaowcl.png" style="max-width:100%;">
+    <img align="center" width="300" src="https://boring-poincare-14c7c6.netlify.app/image/cartaowcl2.png" style="max-width:100%;">
   </a>
 </p>
 
@@ -16,7 +16,7 @@
 
 # Sobre mim
 
-- [Graduado](https://repositorio.pgsskroton.com/bitstream/123456789/1081/1/artigo%2022.pdf")
+- [Graduado](https://repositorio.pgsskroton.com/bitstream/123456789/1081/1/artigo%2022.pdf)
 
 ### 💻 Enterno Estudante ao Desenvolvedor
 
