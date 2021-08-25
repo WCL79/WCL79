@@ -1,6 +1,6 @@
 <h1 align="center">
 	<div class="text-mono text-small mb-3">
-        <a href="/WCL79/apresentacao" class="no-underline Link--primary">/WCL79</a><span class="color-text-tertiary d-inline-block" style="padding:0px 2px;">/</span>README<span class="color-text-tertiary">.md</span>
+        <a href="WCL79/apresentacao" class="no-underline Link--primary">/WCL79</a><span class="color-text-tertiary d-inline-block" style="padding:0px 2px;">/</span>README<span class="color-text-tertiary">.md</span>
       </div>
 <img src="https://boring-poincare-14c7c6.netlify.app/image/cartaowcl.png"/>
 </h1>
