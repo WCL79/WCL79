@@ -41,7 +41,7 @@
 Meus conhecimentos em relção as tecnologias acima menciondas, são baseadas em diversos meios: leitura de livros, artigos digitais aos vídeos nas midias.
 
 	
-## 🖥️🖱️ Telas 
+## 🖥️🖱️ Visitantes
 
 <p align="center">Você é o n° abaixo como visitante, OBRIGADO!</p>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/WCL79/count.svg" /></p>
