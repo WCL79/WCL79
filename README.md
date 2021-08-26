@@ -21,9 +21,9 @@
 
 - [Graduado](https://repositorio.pgsskroton.com/bitstream/123456789/1081/1/artigo%2022.pdf)
 
-### 💻 Enterno Estudante ao Desenvolvedor
+### 💻 Enterno Estudante Desenvolvedor
 
-- [Weslley C. Lima](https://github.com/WCL79)
+- [Weslley C. Lima](https://www.linkedin.com/in/weslley-lima-6844122b/)
 
 
 ## 🚀 Tecnologias conhecidas:
@@ -44,7 +44,7 @@
 Meus conhecimentos em relção as tecnologias acima menciondas, são baseadas em diversos meios: leitura de livros, artigos digitais aos vídeos nas midias.
 
 	
-## 🖥️🖱️ Telas 
+## 🖥️🖱️ Visitantes
 
 <p align="center">Você é o n° abaixo como visitante, OBRIGADO!</p>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/WCL79/count.svg" /></p>
