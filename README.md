@@ -15,7 +15,7 @@
 
 # Sobre mim
 
-- [Graduado](https://repositorio.pgsskroton.com/bitstream/123456789/1081/1/artigo%2022.pdf)
+- [Graduação em Ciência da Computação](https://repositorio.pgsskroton.com/bitstream/123456789/1081/1/artigo%2022.pdf)
 
 ### 💻 Enterno Estudante Desenvolvedor
 
