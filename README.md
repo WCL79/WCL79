@@ -44,6 +44,9 @@
 	
 ## 🖥️🖱️ Visitantes
 
-
+<div class="stat">
+    <span class="stat-count">0</span>
+    <p class="stat-detail">Visitantes</p>
+</div>
 <p align="center">Você é o n° abaixo como visitante, OBRIGADO!</p>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/WCL79/count.svg" /></p>
