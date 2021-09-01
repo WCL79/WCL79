@@ -35,9 +35,11 @@
 - [Spring_Boot](https://spring.io/projects/spring-boot)
 
 
-## ⚙️ Metodologia
+## ⚙️ Projetos como Portifolio:
 
-Meus conhecimentos em relção as tecnologias acima menciondas, são baseadas em diversos meios: leitura de livros, artigos digitais aos vídeos nas midias.
+-[Sistema para RH](https://sistemapararhspringboot.herokuapp.com/)
+-[Sistema para Gerenciamento de Oficina](https://gerenciadordeoficina.netlify.app/)
+-[Sistema para Delivery](https://wclsds2.netlify.app/)
 
 	
 ## 🖥️🖱️ Visitantes
