@@ -1,16 +1,19 @@
-var meu_gitHub = "github.com/WCL79";
-    var myip;
-    var ip = myip;
-    var f_db = new Firebase("https://cliqueslinks.firebaseio.com/"+meu_gitHub+"/");
-    var usuario_db = f_db.push();
-    var db_presensa = new Firebase("https://cliqueslinks.firebaseio.com/.info/connected/");
-    db_presensa.on("value", function (snap) {
-        if (snap.val()) {
-            usuario_db.onDisconnect().remove();
-            usuario_db.set(""+ip+"");
-        }
-    });
-    f_db.on("value", function (snap) {
-        //console.log("# of online users = " + snap.numChildren());
-        document.getElementById("u_online_ativos").innerHTML = snap.numChildren()
-    });
+jQuery(document).ready(function() {
+	function count($this){
+		var current = parseInt($this.html(), 10);
+		current = current + 1; /* Where 1 is increment */
+
+		$this.html(++current);
+		if(current > $this.data('count')){
+			$this.html($this.data('count'));
+		} else {
+			setTimeout(function(){count($this)}, 50);
+		}
+	}
+
+	jQuery(".stat-count").each(function() {
+	  jQuery(this).data('count', parseInt(jQuery(this).md(), 10));
+	  jQuery(this).md('0');
+	  count(jQuery(this));
+	});
+});
