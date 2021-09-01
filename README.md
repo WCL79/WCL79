@@ -10,7 +10,7 @@
 <p align="center">
   <a href="#-sobre-mim">Sobre o mim</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias que conheço e estudo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-metodologia">Metodologia</a>
+  <a href="#-portifolio">Projetos comol Portifolio</a>
 </p>
 
 # Sobre mim
@@ -37,9 +37,9 @@
 
 ## ⚙️ Projetos como Portifolio:
 
--[Sistema para RH](https://sistemapararhspringboot.herokuapp.com/)
--[Sistema para Gerenciamento de Oficina](https://gerenciadordeoficina.netlify.app/)
--[Sistema para Delivery](https://wclsds2.netlify.app/)
+- [Sistema para RH](https://sistemapararhspringboot.herokuapp.com/)
+- [Sistema para Gerenciamento de Oficina](https://gerenciadordeoficina.netlify.app/)
+- [Sistema para Delivery](https://wclsds2.netlify.app/)
 
 	
 ## 🖥️🖱️ Visitantes
