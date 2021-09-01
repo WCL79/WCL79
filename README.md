@@ -44,5 +44,10 @@
 	
 ## 🖥️🖱️ Visitantes
 
+<script src="https://cdn.firebase.com/js/client/2.4.2/firebase.js"></script>
+<script type="text/javascript" src="https://l2.io/ip.js?var=myip"></script><blockquote>
+    <div>Usuários online <b id="u_online_ativos">Carregando...</b>.</div>
+</blockquote>
+
 <p align="center">Você é o n° abaixo como visitante, OBRIGADO!</p>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/WCL79/count.svg" /></p>
