@@ -37,7 +37,7 @@
 
 ## ⚙️ Projetos como Portifolio:
 
-- [Sistema para RH](<a hrfe="https://sistemapararhspringboot.herokuapp.com/" target="_blank"/>)
+- [Sistema para RH](https://sistemapararhspringboot.herokuapp.com/ target="_blank"/>)
 - [Sistema para Gerenciamento de Oficina](https://gerenciadordeoficina.netlify.app/)
 - [Sistema para Delivery](https://wclsds2.netlify.app/)
 
