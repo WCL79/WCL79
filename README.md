@@ -10,7 +10,7 @@
 <p align="center">
   <a href="#-sobre-mim">Sobre o mim</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias que conheço e estudo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  [`Projetos como Portifolio`](#portifolio)
+  <a href="#-projetos">Projetos como Portifolio</a>
 </p>
 
 # Sobre mim
