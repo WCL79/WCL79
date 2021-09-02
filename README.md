@@ -44,7 +44,5 @@
 	
 ## 🖥️🖱️ Visitantes
 
-<div style="font-size: 10px;color: #dadada;" id="dumdiv"> <a href="http://www.hscripts.com" id="dum" style="text-decoration:none;color: #dadada;">&copy;h</a></div>
-
 <p align="center">Você é o n° abaixo como visitante, OBRIGADO!</p>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/WCL79/count.svg" /></p>
