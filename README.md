@@ -31,7 +31,7 @@
 
 ---
 
-# Front-end
+# Front-end & Framework
 - [HTML](https://www.w3schools.com/html/)
 - [CSS](https://www.w3schools.com/css/)
 - [Javascript](https://www.w3schools.com/js/)
@@ -41,8 +41,9 @@
 
 ---
 
-# Back-end
+# Back-end & Framework
 - [Java](https://www.w3schools.com/java/default.asp)
+- [Python](https://www.w3schools.com/python/)
 - [Spring_Boot](https://spring.io/projects/spring-boot)
 
 ---
