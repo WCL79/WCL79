@@ -7,11 +7,15 @@
   Quem sou?
 </h1>
 
+---
+
 <p align="center">
   <a href="#-sobre-mim">Sobre o mim</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias que conheço e estudo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projetos">Projetos como Portifolio</a>
 </p>
+
+---
 
 # Sobre mim
 
@@ -21,8 +25,12 @@
 
 - [Weslley C. Lima](https://www.linkedin.com/in/weslley-lima-6844122b/)
 
+---
 
 ## 🚀 Tecnologias conhecidas:
+
+---
+
 # Front-end
 - [HTML](https://www.w3schools.com/html/)
 - [CSS](https://www.w3schools.com/css/)
@@ -30,10 +38,14 @@
 - [jQuery](https://www.w3schools.com/jquery/default.asp)
 - [Bootstrap](https://www.w3schools.com/bootstrap/bootstrap_ver.asp)
 - [Angular_em_desenvolvimento_pratico](https://angular.io/)
+
+---
+
 # Back-end
 - [Java](https://www.w3schools.com/java/default.asp)
 - [Spring_Boot](https://spring.io/projects/spring-boot)
 
+---
 
 ## ⚙️ Projetos como Portifolio:
 
@@ -41,7 +53,8 @@
 - [Sistema para Gerenciamento de Oficina](https://gerenciadordeoficina.netlify.app/)
 - [Sistema para Delivery](https://wclsds2.netlify.app/)
 
-	
+---
+
 ## 🖥️🖱️ Visitantes
 
 <p align="center">Você é o n° abaixo como visitante, OBRIGADO!</p>
