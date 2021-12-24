@@ -43,7 +43,7 @@
 
 # Back-end & Framework
 - [Java](https://www.w3schools.com/java/default.asp)
-- [Python](https://www.w3schools.com/python/)
+- [Python em ANDAMENTO COM PRATICA (16/12/2021)](https://www.w3schools.com/python/)
 - [Spring_Boot](https://spring.io/projects/spring-boot)
 
 ---
